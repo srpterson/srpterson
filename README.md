@@ -135,9 +135,6 @@ learning_mode: ON
 
 ## `[ Contato ]`
 
-<a href="mailto:contato.petersonsilvaribeiro@aluno.ueg.br">
-  <img src="https://img.shields.io/badge/Email-161616?style=for-the-badge&logo=gmail&logoColor=A855F7" />
-</a>
 <a href="https://github.com/srpterson">
   <img src="https://img.shields.io/badge/GitHub-161616?style=for-the-badge&logo=github&logoColor=A855F7" />
 </a>
